@@ -1,5 +1,5 @@
 # TUBES_KEL06_TT4411
-Hello selamat datang di repository kelompok 6, disini kita akan menjelaskan tentang prinsip kerja adhoc menggunakan cisco packet tracer.
+Berikut ini adalah repository dari kelompok 6, disini kita akan menjelaskan tentang prinsip kerja adhoc menggunakan cisco packet tracer.
 
 Anggota Kelompok 6 :
 * Abdullah Azzam (1101202330)
